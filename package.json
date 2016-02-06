@@ -1,0 +1,14 @@
+{
+  "name": "art-conference",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luchnik/artConference.git"
+  },
+  "author": "Andriy Luchko",
+  "bugs": {
+    "url": "https://github.com/Luchnik/artConference/issues"
+  },
+  "homepage": "https://github.com/Luchnik/artConference#readme"
+}
