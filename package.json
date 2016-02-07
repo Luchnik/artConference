@@ -10,5 +10,9 @@
   "bugs": {
     "url": "https://github.com/Luchnik/artConference/issues"
   },
-  "homepage": "https://github.com/Luchnik/artConference#readme"
+  "homepage": "https://github.com/Luchnik/artConference#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7"
+  }
 }
